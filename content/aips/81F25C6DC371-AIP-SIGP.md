@@ -44,7 +44,7 @@ Throughout the works performed for Aave, the feedback received from the leadersh
 
 ## Test Cases
 
-- Please refer to the [test section](https://github.com/sigp/aave-msa-contract/src/tests/) of the [sigp/aave-msa-contract](https://https://github.com/sigp/aave-msa-contract) repository.
+- Please refer to the [test section](https://github.com/sigp/aave-msa-contract/src/tests/) of the [sigp/aave-msa-contract](https://github.com/sigp/aave-msa-contract) repository.
 
 ## Implementation
 
